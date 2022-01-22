@@ -1,36 +1,36 @@
 # Election_Analysis
 
-###**Overview
+### Overview
 
 Python and VS Code
 
 The purpose of this analysis is to complete an audit on a recent local congressional election by determining the total ballots counted in the election, the winning candidate and county as well as the winning percentage rate respectively. 
 
-###***Election-Audit Results
+### Election-Audit Results
 
-•	How many votes were cast in this congressional election?
+### How many votes were cast in this congressional election?
 
 ![image](https://user-images.githubusercontent.com/89875689/150648531-6b9c0f7b-645b-4b79-9bc2-3d3804213c74.png)
 
 
-•	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
 ![image](https://user-images.githubusercontent.com/89875689/150648562-70b5d4ec-aeb3-4ebf-bcb1-7df388dfeca8.png)
 
 
-•	Which county had the largest number of votes?
+### Which county had the largest number of votes?
 
--	Denver 82.8 % (vote count 306,055)
+-	Denver county had the largest number of votes 82.8 % (vote count 306,055)
 
 
-•	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+### Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
 ![image](https://user-images.githubusercontent.com/89875689/150648586-2cfa61ff-f303-4b02-b712-d90b1fa7cba1.png)
 
 
-•	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
--	Diana DeGette 73.8% (vote count 272,892)
+-	Diana DeGette won the election with a vote count of 272,892 and 73.8% total votes
 
 
 
