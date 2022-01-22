@@ -20,8 +20,7 @@ The purpose of this analysis is to complete an audit on a recent local congressi
 
 ### 3. Which county had the largest number of votes?
 
--	Denver county had the largest number of votes 82.8 % (vote count 306,055)
-
+-	Denver county had the largest number of votes with total votes 306,055 (82.8 %) 
 
 ### 4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
