@@ -8,27 +8,27 @@ The purpose of this analysis is to complete an audit on a recent local congressi
 
 ### Election-Audit Results
 
-### How many votes were cast in this congressional election?
+### 1. How many votes were cast in this congressional election?
 
 ![image](https://user-images.githubusercontent.com/89875689/150648531-6b9c0f7b-645b-4b79-9bc2-3d3804213c74.png)
 
 
-### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+### 2. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
 ![image](https://user-images.githubusercontent.com/89875689/150648562-70b5d4ec-aeb3-4ebf-bcb1-7df388dfeca8.png)
 
 
-### Which county had the largest number of votes?
+### 3. Which county had the largest number of votes?
 
 -	Denver county had the largest number of votes 82.8 % (vote count 306,055)
 
 
-### Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+### 4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
 ![image](https://user-images.githubusercontent.com/89875689/150648586-2cfa61ff-f303-4b02-b712-d90b1fa7cba1.png)
 
 
-### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+### 5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 -	Diana DeGette won the election with a vote count of 272,892 and 73.8% total votes
 
